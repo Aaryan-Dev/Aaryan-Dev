@@ -1,5 +1,5 @@
 ### 🙌 `<Hello Coders/>`
-![ProgrammerCycleGIF](https://user-images.githubusercontent.com/103744719/182027247-c746456b-88e3-480f-a610-a6804bcd297d.gif)
+![CodingGIF (2)](https://user-images.githubusercontent.com/103744719/182027432-77ed366e-dcbe-47a7-b254-cd526441a1d2.gif)
 ### 👇 “Showing you the Code, because talk is cheap.”
 
 <!--
