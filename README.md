@@ -1,6 +1,5 @@
- ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/103744719/182027247-c746456b-88e3-480f-a610-a6804bcd297d.gif)
-
-### `<Hello Coders/>`
+### 🙌 `<Hello Coders/>`
+![ProgrammerCycleGIF](https://user-images.githubusercontent.com/103744719/182027247-c746456b-88e3-480f-a610-a6804bcd297d.gif)
 ### 👇 “Showing you the Code, because talk is cheap.”
 
 <!--
