@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻Some of my projects are available at [https://fantastic-moxie-d50cf0.netlify.app/](https://fantastic-moxie-d50cf0.netlify.app/)
+- 👨‍💻Portfolio- [https://fantastic-moxie-d50cf0.netlify.app/](https://fantastic-moxie-d50cf0.netlify.app/)
 
 - 💬 Ask me about **anything**
 
