@@ -1,5 +1,5 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I am Aryan Dev.</h1>
-<h3 align="center">A 20y/o Full-Stack Web Developer.</h3>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I am Aryan Dev</h1>
+<h3 align="center">A 20y/o Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-dev" /> </p>
 
