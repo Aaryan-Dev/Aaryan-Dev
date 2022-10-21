@@ -37,6 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryan-dev&show_icons=true&locale=en" alt="aaryan-dev" /></p>
 
-![NincomputerMatrixGIF](https://user-images.githubusercontent.com/103744719/197113246-1d34cbad-6f63-4c9a-b18c-51c8a607aeea.gif)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-dev&" alt="aaryan-dev" /></p>
