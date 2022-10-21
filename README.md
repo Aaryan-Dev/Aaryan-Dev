@@ -1,7 +1,8 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I am Aryan Dev</h1>
 <h3 align="center">A 20y/o Full-Stack Web Developer</h3>
 
-![ScalerCreateImpactGIF](https://user-images.githubusercontent.com/103744719/196686371-536e3681-0464-4582-823d-19138762b1ff.gif)
+![CodeItsFunCodeGIF](https://user-images.githubusercontent.com/103744719/197112428-42e76a3c-55af-4c24-915a-67b7eb7a3baa.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-dev" /> </p>
