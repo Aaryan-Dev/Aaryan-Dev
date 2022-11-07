@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻Portfolio- [https://fantastic-moxie-d50cf0.netlify.app/](https://fantastic-moxie-d50cf0.netlify.app/)
+- 👨‍💻Portfolio- [https://aaryan-dev.github.io/](https://aaryan-dev.github.io/)
 
 - 💬 Ask me about **anything**
 
