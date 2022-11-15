@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryan-dev&show_icons=true&locale=en" alt="aaryan-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-dev&" alt="aaryan-dev" /></p>
+
+<h2>GitHub Contributions</h2>
+<a href="https://github.com/aaryan-dev"><img alt="Pragati Tripathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aaryan-dev&bg_color=0D1117&color=ffffff&line=5BCDEC&point=dc777a&hide_border=true" /></a>
