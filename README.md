@@ -1,5 +1,6 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I am Aryan Dev</h1>
 <h3 align="center">A Full-Stack Web Developer...</h3>
+“I am motivated by several things. First and foremost, I am motivated by meeting deadlines, targets or goals. I believe I am at my best at work when I have responsibility for important deadlines because this gives me a great sense of achievement. I am also motivated by learning new things.
 
 ![CodeItsFunCodeGIF](https://user-images.githubusercontent.com/103744719/197112428-42e76a3c-55af-4c24-915a-67b7eb7a3baa.gif)
 
