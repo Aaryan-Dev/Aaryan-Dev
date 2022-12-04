@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Web Developer...</h3>
 
 
-I am motivated by several things. First and foremost, I am motivated by meeting deadlines, targets or goals. I believe I am at my best at work when I have responsibility for important deadlines because this gives me a great sense of achievement.
+"I am motivated by several things. First and foremost, I am motivated by meeting deadlines, targets or goals. I believe I am at my best at work when I have responsibility for important deadlines because this gives me a great sense of achievement."
 
 Intrests - Travelling | Sketching | Music
 
